@@ -1,0 +1,11 @@
+li {
+    background-color: #333;
+    color: white;
+    list-style-type: none;
+    padding: 15px;
+    margin-left: 1px;
+}
+li:hover {
+    background-color: rgb(58, 58, 58);
+    cursor: pointer;
+}

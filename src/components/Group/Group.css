@@ -1,0 +1,33 @@
+.numMiss {
+    float: right;
+    margin-right: 10px;
+    background-color: rgb(90, 90, 90);
+    padding: 0 7px 2px 7px;
+    font-size: 16px;
+    border-radius: 100px;
+    text-align: center;
+    font-style: unset;
+}
+
+li {
+    background-color: #333;
+    color: white;
+    list-style-type: none;
+    padding: 15px 0 15px 10px;
+    margin-right: 1px;
+}
+li:hover {
+    background-color: rgb(58, 58, 58);
+    cursor: pointer;
+}
+
+.fa-circle {
+    font-size: 12px;
+    margin-right: 145px;
+    color: green;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
